@@ -4,9 +4,8 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-        "server": "nodemon server.js --ignore client",
-        "develop": "nodemon server.js",
-        "start": "node server.js"
+        "server": "node server.js",
+        "develop": "nodemon server.js"
         
     },
     "keywords": [],
