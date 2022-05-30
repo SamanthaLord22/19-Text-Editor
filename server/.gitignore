@@ -64,6 +64,6 @@ typings/
 package-lock.json
 yarn.lock
 
-.DS_Store
+.DS_store
 .vscode
 *.xslx
